@@ -16,6 +16,9 @@
 
 Примеры запуска:
 python HostTester.py -F test.txt
+
 python HostTester.py -H https://ya.ru,https://google.com -C 5
+
 python HostTester.py -h
+
 python HostTester.py -F test.txt -O output.txt
