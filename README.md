@@ -15,6 +15,7 @@
   -С - Количество запросов к каждому хосту (по умолчанию: 1)
 
 Примеры запуска:
+
 python HostTester.py -F test.txt
 
 python HostTester.py -H https://ya.ru,https://google.com -C 5
